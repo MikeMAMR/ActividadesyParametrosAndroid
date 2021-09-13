@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="link"><a href="#">Forgot password?</a></string>
+</resources>
